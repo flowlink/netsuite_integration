@@ -10,7 +10,7 @@ product. With this integration you can perform the following functions:
 * Send customers to NetSuite (through orders)
 * Poll for Inventory Item (or any other kind of Item) from NetSuite
 * Create refunds and close Sales Orders in NetSuite once order is canceled
-* Poll for Items in NetSuite (they're persisted as products in wombat.co)
+* Poll for Items in NetSuite (they're persisted as products in flowlink.io)
 * Poll for shipments (Item Fulfillments) from NetSuite
 * Send shipments as Item Fulfillment to NetSuite along with Invoice creation
 
