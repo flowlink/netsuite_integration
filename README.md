@@ -16,7 +16,7 @@ product. With this integration you can perform the following functions:
 
 See The [SuiteTalk Web Services](https://system.netsuite.com/help/helpcenter/en_US/Output/Help/SuiteCloudCustomizationScriptingWebServices/SuiteTalkWebServices/SuiteTalkWebServices.html) for further info on how integration can be improved.
 
-Also view the [wiki](https://github.com/wombat/netsuite_integration/wiki) for
+Also view the [wiki](https://github.com/flowlink/netsuite_integration/wiki) for
 more details about parameters and webhooks.
 
 > NOTE: To run the specs on this repo you need to check out the [cassetes](https://github.com/wombat/netsuite_integration/tree/cassetes)
